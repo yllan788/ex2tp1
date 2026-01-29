@@ -1,6 +1,6 @@
 ﻿using ex2tp1;
 using tp2ex1;
-Livre livre1 = new Livre(" apprenez C#", "2017",  250,  25);
+Livre livre1 = new Livre(" apprenez C#", "2017",  250,  25, fourl,au);
 livre1.affichel();
 
 Auteur auteur1 = new Auteur(1, "Rolland", "Stéphane");
